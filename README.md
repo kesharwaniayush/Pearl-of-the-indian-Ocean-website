@@ -82,36 +82,41 @@ I have used only front-end web technologies like
   
 ### Test Results
 **Home Page:** 
-<img  src="https://github.com/rihamnazeer/Pearl-Of-The-Indian-Ocean/assets/90144970/7183ee19-872f-4a0f-9984-53183cb8dc45">
-
+![Image](https://github.com/user-attachments/assets/801c44eb-66a3-48f4-8d95-c724dc2ae7e3)
 
 **Service Page:**
-<img  src="https://github.com/rihamnazeer/Pearl-Of-The-Indian-Ocean/assets/90144970/d67a10d8-8e12-466d-a42d-6cada277644e">
+![Image](https://github.com/user-attachments/assets/90d7ec98-5e8e-4bd9-81d2-8781b713ec25)
+
 
 **About Us Page:**
-<img  src="https://github.com/rihamnazeer/Pearl-Of-The-Indian-Ocean/assets/90144970/4e8e5a37-4a01-4e3f-95f0-5b322b980896">
+![Image](https://github.com/user-attachments/assets/ed501c4f-1af2-4dd6-9406-24dfdd5f8617)
 
 
 **Places Page:**
-<img  src="https://github.com/rihamnazeer/Pearl-Of-The-Indian-Ocean/assets/90144970/05b74d04-cc86-45ea-b596-6a9928b79aff">
-
+![Image](https://github.com/user-attachments/assets/47e57c3e-b00d-4c6f-aaf4-2301dff7c2f5)
 
 **To-Do List Page:**
-<img  src="https://github.com/rihamnazeer/Pearl-Of-The-Indian-Ocean/assets/90144970/bafade30-1a96-42a5-bbe7-c4518b53fc00">
+![Image](https://github.com/user-attachments/assets/6c875c1b-bae6-4a33-8e8a-ddb9ce19b8e5)
 
 **Contact Us Page :**
-<img  src="https://github.com/rihamnazeer/Pearl-Of-The-Indian-Ocean/assets/90144970/0764ae49-6428-4944-a87e-566a05ea8754">
-
+![Image](https://github.com/user-attachments/assets/574bdb93-3490-403d-aa6a-baac5904b1bc)
 
 **Info:** 
-<img  src="https://github.com/rihamnazeer/Pearl-Of-The-Indian-Ocean/assets/90144970/967bbb8b-f16c-4e0c-b27d-15d325af8e44">
+![Image](https://github.com/user-attachments/assets/73827eed-f948-427b-b5d5-a192c3ebfeb5)
 
 
 
 ### Conclusion
-<p align="justify">This website for tourists visiting Sri Lanka is a promising project that leverages a combination of web technologies to provide valuable information and services to travellers. Despite facing initial challenges, such as learning Vue.js and design complexities as a first-time developer, you have made significant progress in creating a user-friendly and visually appealing platform.</p>
+<p align="justify">This website for tourists visiting India is a promising project that leverages a combination of web technologies to provide valuable information and services to travellers. Despite facing initial challenges, such as learning Vue.js and design complexities as a first-time developer, you have made significant progress in creating a user-friendly and visually appealing platform.</p>
 
-<p>The use of HTML, CSS, JavaScript, and Vue.js allows you to structure content, style the website, enhance interactivity, and create dynamic components like the To-Do section. Images and videos add visual richness and depth to your site, helping tourists better understand and appreciate the beauty of Sri Lanka's districts. The JavaScript-powered query system and the inclusion of "About Us" and "Contact Us" pages further enhance the user experience by facilitating communication and feedback. </p>
+<p>The use of HTML, CSS, JavaScript, and Vue.js allows you to structure content, style the website, enhance interactivity, and create dynamic components like the To-Do section. Images and videos add visual richness and depth to your site, helping tourists better understand and appreciate the beauty of India districts. The JavaScript-powered query system and the inclusion of "About Us" and "Contact Us" pages further enhance the user experience by facilitating communication and feedback. </p>
 
+##  License
 
+This project is for personal/educational use and is not currently under any license.
+
+##  Notes
+
+- All assets and contact info are placeholders and should be customized as per deployment requirements.
+- For a live version, hosting via GitHub Pages, Netlify, or Vercel is recommended.
 
