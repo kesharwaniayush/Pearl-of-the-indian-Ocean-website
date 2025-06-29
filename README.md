@@ -115,6 +115,9 @@ I have used only front-end web technologies like
 
 This project is for personal/educational use and is not currently under any license.
 
+## Live Demo
+https://pearl-indian-ocean-website.netlify.app/
+
 ##  Notes
 
 - All assets and contact info are placeholders and should be customized as per deployment requirements.
